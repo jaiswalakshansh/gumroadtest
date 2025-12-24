@@ -19,7 +19,7 @@
     "@stripe/react-connect-js": "^3.3.20",
     "@stripe/react-stripe-js": "^2.0.0",
     "@stripe/stripe-js": "^4.0.0",
-    "@tiptap/core": "2.6.5",
+    "@tiptap/core": "2.27.1",
     "@tiptap/extension-character-count": "2.6.5",
     "@tiptap/extension-code-block-lowlight": "2.6.5",
     "@tiptap/extension-heading": "2.6.5",
