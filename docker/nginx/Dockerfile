@@ -1,4 +1,4 @@
-FROM nginx:1.23.4
+FROM nginx:1.28.1
 
 COPY public /public
 COPY docker/nginx/nginx.conf /nginx.conf
