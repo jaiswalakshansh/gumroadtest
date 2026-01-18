@@ -165,7 +165,7 @@ gem "sass-rails", "~> 6.0"
 gem "secure_headers", "~> 6.5"
 gem "selenium-webdriver", "~> 4.7"
 gem "sendgrid-ruby", "~> 6.6"
-gem "shakapacker", "~> 8.0"
+gem "shakapacker", "~> 9.5", ">= 9.5.0"
 gem "sidekiq-cron", "~> 1.9"
 gem "suo", "~> 0.4"
 
